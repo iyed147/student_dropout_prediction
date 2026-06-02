@@ -8,11 +8,11 @@ Système de machine learning pour prédire le risque d'abandon scolaire des étu
 
 | Risque faible | Risque modéré |
 |---|---|
-| ![demo1](docs/demo1.png) | ![demo2](docs/demo2.png) |
+| ![demo3](docs/demo3.png) | ![demo4](docs/demo4.png) |
 
 | Risque élevé | Vue générale |
 |---|---|
-| ![demo3](docs/demo3.png) | ![demo4](docs/demo4.png) |
+| ![demo1](docs/demo1.png) | ![demo2](docs/demo2.png) |
 
 ---
 
