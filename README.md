@@ -4,6 +4,18 @@ Système de machine learning pour prédire le risque d'abandon scolaire des étu
 
 ---
 
+## 📸 Démonstration
+
+| Risque faible | Risque modéré |
+|---|---|
+| ![demo1](docs/demo1.png) | ![demo2](docs/demo2.png) |
+
+| Risque élevé | Vue générale |
+|---|---|
+| ![demo3](docs/demo3.png) | ![demo4](docs/demo4.png) |
+
+---
+
 ## 📋 Description
 
 EduGuard analyse le profil académique, comportemental et familial d'un étudiant pour estimer sa probabilité d'abandon. Le personnel éducatif peut ainsi intervenir avant qu'il ne soit trop tard.
@@ -55,6 +67,11 @@ student_dropout_prediction/
 │   ├── student-mat.csv
 │   ├── student-por.csv
 │   └── student.txt
+├── docs/                       # Screenshots démonstratifs
+│   ├── demo1.png
+│   ├── demo2.png
+│   ├── demo3.png
+│   └── demo4.png
 ├── models/
 │   └── best_model.pkl          # Modèle XGBoost sauvegardé
 ├── reports/                    # Courbes ROC, confusion matrix, etc.
